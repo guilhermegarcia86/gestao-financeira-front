@@ -1,0 +1,10 @@
+.chart-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .chart {
+    flex: 1 1 0;
+    max-width: calc(50% - 10px); /* 10px para um pequeno espaço entre os gráficos */
+    width: 100%;
+  }

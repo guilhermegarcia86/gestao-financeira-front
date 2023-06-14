@@ -1,0 +1,44 @@
+{
+  "budgets": [
+    {
+      "name": "Enel",
+      "value": "390,00",
+      "date": "17/05/2023",
+      "type": "DESPESA",
+      "tag": [
+        "luz",
+        "recorrente"
+      ]
+    },
+    {
+      "name": "Condomínio",
+      "value": "1590,00",
+      "date": "30/05/2023",
+      "type": "DESPESA",
+      "tag": [
+        "apto",
+        "recorrente"
+      ]
+    },
+    {
+      "name": "Cartão de crédito",
+      "value": "3100,00",
+      "date": "17/05/2023",
+      "type": "DESPESA",
+      "tag": [
+        "cartão",
+        "variavel"
+      ]
+    },
+    {
+      "name": "Salário",
+      "value": "11700,00",
+      "date": "30/05/2023",
+      "type": "PROVENTO",
+      "tag": [
+        "salario",
+        "recorrente"
+      ]
+    }
+  ]
+}
